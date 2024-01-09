@@ -22,7 +22,7 @@ body {
 .return {
   position: relative;
   color: #000000;
-  font-size: 25px;
+  font-size: 20px;
   text-decoration: none;
   font-weight: 600;
 }
@@ -48,16 +48,17 @@ body {
   display: flex;
   align-items: center;
   padding: 70px 10% 0;
+  background-image: url(/Users/kmnleahgmail.com/Downloads/img.jpeg);
 }
 .context-home {
   max-width: 600px;
 }
 .context-home h3 {
-  font-size: 32px;
+  font-size: 27px;
   font-weight: 700;
 }
 .context-home h1 {
-  font-size: 56px;
+  font-size: 40px;
   font-weight: 700;
   margin: -3px 0;
 }
