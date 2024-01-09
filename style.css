@@ -49,3 +49,18 @@ body {
   align-items: center;
   padding: 70px 10% 0;
 }
+.context-home {
+  max-width: 600px;
+}
+.context-home h3 {
+  font-size: 32px;
+  font-weight: 700;
+}
+.context-home h1 {
+  font-size: 56px;
+  font-weight: 700;
+  margin: -3px 0;
+}
+.context-home p {
+  font-size: 20px;
+}
